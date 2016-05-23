@@ -1,9 +1,9 @@
 inherit mate
 
 NAME="mate-user-guide"
-VERSION=1.10.1
+VERSION=1.14.0
 RELEASE=1
-CATEGORY="Devel"
+CATEGORY="MATE"
 SUMMARY="User guide for MATE Desktop"
 DESCRIPTION="MATE is a fork of the GNOME 2 desktop. It provides an intuitive
 and attractive desktop to Linux users using traditional metaphors."
