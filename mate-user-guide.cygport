@@ -1,7 +1,7 @@
 inherit mate
 
 NAME="mate-user-guide"
-VERSION=1.14.0
+VERSION=1.16.0
 RELEASE=1
 CATEGORY="MATE"
 SUMMARY="User guide for MATE Desktop"
